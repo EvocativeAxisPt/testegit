@@ -11,4 +11,5 @@ class MainActivity : AppCompatActivity() {
 
 
     //add method A
+    //add method B
 }
