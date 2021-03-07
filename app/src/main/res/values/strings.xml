@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">git</string>
+    <string name="file">file</string>
+    <string name="create_new">file</string>
+    <string name="open">open</string>
+    <string name="opcao1">option 1</string>
+    <string name="opcao2">option 2</string>
+    <string name="opcao3">option 3</string>
 </resources>

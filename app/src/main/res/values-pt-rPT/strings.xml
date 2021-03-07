@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">git</string>
+    <string name="file">ficheiro</string>
+    <string name="create_new">criar_novo</string>
+    <string name="open">abrir</string>
+    <string name="opcao1">opção 1</string>
+    <string name="opcao2">opção 2</string>
+    <string name="opcao3">opção 3</string>
+</resources>
